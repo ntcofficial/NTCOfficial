@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NTCOfficial
 - 👀 I’m interested in game development, guitar and playing horror games!
-- 🌱 I’m fluent in Python, C# and Lua
-- 📫 How to reach me Discord: nexttechcreations
+- 🌱 I’m fluent in C++ and Lua
+- 📫 How to reach me Discord: nexttechcreations, YouTube: @NextTechCreations
 - 😄 Pronouns: He/Him
 - ⚡ I also do 3D Model Making in Blender
 - I create soundtracks
