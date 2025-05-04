@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Next Tech Creations
 - 👀 I’m interested in game development, linux, guitar, minecraft and marvel!
 - 🌱 I’m fluent in C++ and Lua
-- 📫 How to reach me Discord: nexttechcreations, YouTube: @NextTechCreations
+- 📫 How to reach me Discord: nexttechcreations, YouTube: @NextTechCreations, Reddit: u/Alarming-Function120
 - 😄 Pronouns: He/Him
 - ⚡ I used to develop games on Unreal Engine until I had to sell my gaming computer for a potato pc which apparantly does not support DirectX12.
 
